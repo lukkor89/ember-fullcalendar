@@ -1,7 +1,7 @@
 {
   "name": "ember-fullcalendar",
-  "version": "1.8.0",
-  "description": "An Ember Component for FullCalendar and FullCalendar Scheduler",
+  "version": "1.8.0.1",
+  "description": "An Ember Component for FullCalendar and FullCalendar Scheduler new Version of FullCalendar",
   "keywords": [
     "ember-addon",
     "fullcalendar",
@@ -38,8 +38,8 @@
     "ember-cli-moment-shim": "3.5.0",
     "ember-cli-node-assets": "0.2.2",
     "ember-invoke-action": "^1.4.0",
-    "fullcalendar": "4.1.0",
-    "fullcalendar-scheduler": "4.1.0",
+    "fullcalendar": "4.3.1",
+    "fullcalendar-scheduler": "4.3.0",
     "fastboot-transform": "^0.1.2"
   },
   "devDependencies": {
