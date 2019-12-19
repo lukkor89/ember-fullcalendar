@@ -38,8 +38,8 @@
     "ember-cli-moment-shim": "3.5.0",
     "ember-cli-node-assets": "0.2.2",
     "ember-invoke-action": "^1.4.0",
-    "fullcalendar": "*",
-    "fullcalendar-scheduler": "*",
+    "fullcalendar": "4.1.0",
+    "fullcalendar-scheduler": "4.1.0",
     "fastboot-transform": "^0.1.2"
   },
   "devDependencies": {
