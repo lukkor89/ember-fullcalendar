@@ -39,6 +39,7 @@
     "ember-cli-node-assets": "0.2.2",
     "ember-invoke-action": "^1.4.0",
     "fullcalendar": "*",
+    "fullcalendar-scheduler": "*",
     "fastboot-transform": "^0.1.2"
   },
   "devDependencies": {
