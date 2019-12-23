@@ -1,6 +1,6 @@
 {
   "name": "ember-fullcalendar",
-  "version": "1.8.0.1",
+  "version": "1.8.1",
   "description": "An Ember Component for FullCalendar and FullCalendar Scheduler new Version of FullCalendar",
   "keywords": [
     "ember-addon",
@@ -22,7 +22,7 @@
       "url": "https://github.com/rwwagner90"
     }
   ],
-  "repository": "https://github.com/scoutforpets/ember-fullcalendar",
+  "repository": "https://github.com/lukkor89/ember-fullcalendar",
   "directories": {
     "doc": "doc",
     "test": "tests"
